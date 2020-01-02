@@ -1,5 +1,8 @@
 part of flutter_extension;
 
+///
+/// Extension Method for the [Visibility] Widget
+///
 extension VisibleX on Widget {
   Visibility visible(
     bool visible, {

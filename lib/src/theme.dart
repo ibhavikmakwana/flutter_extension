@@ -1,5 +1,8 @@
 part of flutter_extension;
 
+///
+/// Extension Method for the [Theme] Widget
+///
 extension ThemeX on Widget {
   Theme applyDarkTheme({
     Key key,

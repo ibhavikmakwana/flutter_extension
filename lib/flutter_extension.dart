@@ -8,4 +8,4 @@ part 'src/visibility.dart';
 part 'src/padding.dart';
 part 'src/align.dart';
 part 'src/theme.dart';
-part 'src/snackbar.dart';
+part 'src/global_key.dart';

@@ -1,5 +1,8 @@
 part of flutter_extension;
 
+///
+/// Extension Method for the [Align] Widget
+///
 extension AlignX on Widget {
   Align alignAtBottomCenter({
     Key key,

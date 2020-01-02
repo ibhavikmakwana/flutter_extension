@@ -1,5 +1,8 @@
 part of flutter_extension;
 
+///
+/// Extension Method for the [Padding] Widget
+///
 extension PaddingX on Widget {
   Padding paddingAll(double value, {Key key}) => Padding(
         key: key,
