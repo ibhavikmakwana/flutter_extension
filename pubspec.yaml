@@ -1,0 +1,16 @@
+name: flutter_extension
+description: Collection of useful static extension methods for Flutter.
+version: 0.0.1
+author: Bhavik Makwana <ibhavikmakwana@gmail.com>
+homepage: https://github.com/ibhavikmakwana/
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
