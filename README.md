@@ -1,14 +1,37 @@
 # flutter_extension
 
-A new Flutter package.
+Flutter Extension Package is a collection of useful static extension methods for Flutter Widgets.
 
 ## Getting Started
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+1. Add this to your package's pubspec.yaml file:
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+```dart
+dependencies:
+  flutter_extension: ^0.1.1
+```
+
+2. Import it in you flutter widget file:
+
+```dart
+import 'package:flutter_extension/flutter_extension.dart';
+```
+
+3 Ready to Use.
+
+- Show SnackBar:
+```dart
+_scaffoldKey.showSnackBar(SnackBar(content: Text('Flutter Extension')));
+```
+
+- Add Padding:
+```dart
+Text(
+  'You have pushed the button this many times:',
+).paddingAll(16),
+```
+
+- Manage Visibilty:
+```dart
+someWidget.visible(false)
+```
