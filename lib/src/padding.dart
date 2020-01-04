@@ -1,4 +1,4 @@
-part of flutter_extension;
+part of "../flutter_extension.dart";
 
 ///
 /// Extension Method for the [Padding] Widget
