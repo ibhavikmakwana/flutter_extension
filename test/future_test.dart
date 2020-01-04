@@ -1,4 +1,4 @@
-import 'package:flutter_extension/src/future.dart';
+import 'package:flutter_extension/flutter_extension.dart';
 import 'package:test/test.dart';
 
 /// to run all the tests, run following command:

@@ -1,4 +1,4 @@
-import 'dart:async';
+part of '../flutter_extension.dart';
 
 /// Allows to run [Duration.zero] futures with less boilerplate
 Future<T> post<T>(FutureOr<T> computation()) =>
