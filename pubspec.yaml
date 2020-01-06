@@ -5,12 +5,13 @@ homepage: https://github.com/ibhavikmakwana/
 repository: https://github.com/ibhavikmakwana/flutter_extension
 
 environment:
-  sdk: ">=2.6.0 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
 dev_dependencies:
+  test:
   flutter_test:
     sdk: flutter
