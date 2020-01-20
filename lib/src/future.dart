@@ -1,3 +1,6 @@
+// Author: Birju Vachhani (https://github.com/birjuvachhani)
+// Created Date: January 06, 2020
+
 part of '../flutter_extension.dart';
 
 /// Allows to run [Duration.zero] futures with less boilerplate
