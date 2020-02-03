@@ -1,5 +1,4 @@
 name: Flutter action
-uses: subosito/flutter-action@v1.1.1
 
 on:
   pull_request:
